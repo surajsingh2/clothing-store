@@ -11,3 +11,6 @@
  * {
      box-sizing: border-box;
  }
+ body::-webkit-scrollbar-thumb {
+    width: 1em;
+  }
